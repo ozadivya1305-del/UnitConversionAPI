@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vhwt3ptt+W0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MADHUSUDAN OZA\\source\\repos\\UnitConversionAPI\\UnitConversionAPI.Tests\\UnitConversionAPI.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MADHUSUDAN OZA\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.9\\microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512",
+    "C:\\Users\\MADHUSUDAN OZA\\.nuget\\packages\\microsoft.codecoverage\\17.11.0\\microsoft.codecoverage.17.11.0.nupkg.sha512",
+    "C:\\Users\\MADHUSUDAN OZA\\.nuget\\packages\\microsoft.net.test.sdk\\17.11.0\\microsoft.net.test.sdk.17.11.0.nupkg.sha512",
+    "C:\\Users\\MADHUSUDAN OZA\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\MADHUSUDAN OZA\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\MADHUSUDAN OZA\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.11.0\\microsoft.testplatform.objectmodel.17.11.0.nupkg.sha512",
+    "C:\\Users\\MADHUSUDAN OZA\\.nuget\\packages\\microsoft.testplatform.testhost\\17.11.0\\microsoft.testplatform.testhost.17.11.0.nupkg.sha512",
+    "C:\\Users\\MADHUSUDAN OZA\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
+    "C:\\Users\\MADHUSUDAN OZA\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\MADHUSUDAN OZA\\.nuget\\packages\\xunit\\2.5.0\\xunit.2.5.0.nupkg.sha512",
+    "C:\\Users\\MADHUSUDAN OZA\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\MADHUSUDAN OZA\\.nuget\\packages\\xunit.analyzers\\1.2.0\\xunit.analyzers.1.2.0.nupkg.sha512",
+    "C:\\Users\\MADHUSUDAN OZA\\.nuget\\packages\\xunit.assert\\2.5.0\\xunit.assert.2.5.0.nupkg.sha512",
+    "C:\\Users\\MADHUSUDAN OZA\\.nuget\\packages\\xunit.core\\2.5.0\\xunit.core.2.5.0.nupkg.sha512",
+    "C:\\Users\\MADHUSUDAN OZA\\.nuget\\packages\\xunit.extensibility.core\\2.5.0\\xunit.extensibility.core.2.5.0.nupkg.sha512",
+    "C:\\Users\\MADHUSUDAN OZA\\.nuget\\packages\\xunit.extensibility.execution\\2.5.0\\xunit.extensibility.execution.2.5.0.nupkg.sha512",
+    "C:\\Users\\MADHUSUDAN OZA\\.nuget\\packages\\xunit.runner.visualstudio\\2.5.0\\xunit.runner.visualstudio.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
