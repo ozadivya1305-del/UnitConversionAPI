@@ -6,13 +6,14 @@ Run locally:
 
 1. Ensure .NET 10 SDK and Visual Studio 2022 (or later) are installed.
 2. Testing is done using Postman to send requests to the API.
-3. In repository root run: dotnet run --project UnitConversionAPI
-4. The API will be available at https://localhost:5001  or the URL shown in console 
-5. Use POST https://localhost:7214/api/conversion/convert endpoint.Make sure to add the port number which you see in the console when you run the project.
-6.In Postman, set the request body to JSON format and provide the category, fromUnit, toUnit, and value for conversion.
-7.In postman,set Accept header to application/json and Content-Type header to application/json.
-8.In postman set Authorization as No Auth as the API does not require authentication.
-9.There is one file called UnitConversionAPI.Tests which contains unit tests for the conversion logic.
+3.Make sure to keep UnitConversionAPI as the startup project in Visual Studio before running the application. 
+4. In repository root run: dotnet run --project UnitConversionAPI
+5. The API will be available at https://localhost:5001  or the URL shown in console 
+6. Use POST https://localhost:7214/api/conversion/convert endpoint.Make sure to add the port number which you see in the console when you run the project.
+7.In Postman, set the request body to JSON format and provide the category, fromUnit, toUnit, and value for conversion.
+8.In postman,set Accept header to application/json and Content-Type header to application/json.
+9.In postman set Authorization as No Auth as the API does not require authentication.
+10.There is one file called UnitConversionAPI.Tests which contains unit tests for the conversion logic.
 You can run these tests using the Test Explorer in Visual Studio or using the command line with dotnet test.
 
 
