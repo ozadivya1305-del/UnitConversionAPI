@@ -1,7 +1,0 @@
-.vs/
-*.user
-*.suo
-*.vsidx
-*.log
-bin/
-obj/
